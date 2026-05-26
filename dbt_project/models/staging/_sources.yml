@@ -1,0 +1,130 @@
+version: 2
+
+sources:
+  - name: raw_banking
+    database: RAW_TO_READY
+    schema: RAW                         # update if you loaded data into a different schema
+    description: >
+      Raw banking data loaded from CSV files into Snowflake.
+      Data is intentionally messy — inconsistent formats, mixed types,
+      duplicates, and null disguises are expected at this layer.
+
+    tables:
+
+      # ── CUSTOMERS ─────────────────────────────────────────────────────────
+      # Fully documented as a reference example (Session 2)
+      - name: raw_customers
+        description: >
+          Customer profiles. Contains ~215 rows including ~15 intentional
+          duplicates on customer_id. Multiple columns have inconsistent
+          formats that will be standardised in the staging model.
+        columns:
+          - name: customer_id
+            description: Primary key. Not unique in the raw table — duplicates exist.
+          - name: first_name
+            description: Mixed case (JOHN, john, John). Standardise with INITCAP in staging.
+          - name: last_name
+            description: Mixed case. Same treatment as first_name.
+          - name: full_name
+            description: >
+              Inconsistently formatted (e.g. "John Smith", "SMITH, John", "").
+              Derive a clean version in staging from first_name + last_name instead.
+          - name: email
+            description: >
+              Nullable. Null disguises present: "N/A", "null", "unknown", "".
+              Cast to NULL in staging.
+          - name: phone
+            description: >
+              5 different formats present (e.g. 555-123-4567, (555) 123-4567, +15551234567).
+              Strip to 10 digits in staging.
+          - name: date_of_birth
+            description: 4 date formats mixed (YYYY-MM-DD, MM/DD/YYYY, DD-Mon-YYYY, Mon DD YYYY).
+          - name: join_date
+            description: Same 4-format issue as date_of_birth.
+          - name: state
+            description: US state abbreviations. Generally clean.
+          - name: country
+            description: >
+              5 representations of USA (US, USA, United States, U.S., us).
+              Normalise to 'USA' in staging.
+          - name: credit_score
+            description: Integer 580–850. Some nulls disguised as 'N/A' or 'null'.
+          - name: is_active
+            description: >
+              Boolean stored as mixed strings: 1/0, True/False, Yes/No, Y/N, TRUE/FALSE.
+              Cast to boolean in staging.
+
+      # ── ACCOUNTS ──────────────────────────────────────────────────────────
+      # TODO (Session 2): Add column-level documentation for this table.
+      - name: raw_accounts
+        description: >
+          Bank accounts. account_type and account_status both have 6–8 aliases
+          each. balance is stored as a string with $ signs and commas.
+          interest_rate is stored as either a decimal (0.055) or percentage string (5.5%).
+        columns:
+          - name: account_id
+            description: Primary key.
+          - name: customer_id
+            description: Foreign key to raw_customers.
+          # TODO: document remaining columns
+
+      # ── TRANSACTIONS ──────────────────────────────────────────────────────
+      # TODO (Session 2): Add full documentation for this table.
+      - name: raw_transactions
+        description: >
+          5,000 transaction records. Categories have 5–8 aliases each.
+          Debit/credit signs are inconsistent. ~7% of merchant values
+          are null disguises. Multi-currency (USD, EUR, GBP, MXN, CAD).
+        columns:
+          - name: transaction_id
+            description: Primary key.
+          # TODO: document remaining columns
+
+      # ── BRANCHES ──────────────────────────────────────────────────────────
+      # TODO (Session 2): Add full documentation for this table.
+      - name: raw_branches
+        description: >
+          20 branch records in WIDE format. Quarterly transaction counts,
+          volumes, and new account figures are stored as separate columns
+          (Q1_2023_txn_count, Q2_2023_txn_count, etc.) rather than rows.
+          Will need to be UNPIVOTED in a later session.
+        columns:
+          - name: branch_id
+            description: Primary key.
+          # TODO: document remaining columns
+
+      # ── LOANS ─────────────────────────────────────────────────────────────
+      # TODO (Session 2): Add full documentation for this table.
+      - name: raw_loans
+        description: >
+          300 loan records. interest_rate has the same 3-way format ambiguity
+          as accounts. monthly_payment is missing for ~15% of rows and must
+          be derived. loan_type and loan_status both have multiple aliases.
+        columns:
+          - name: loan_id
+            description: Primary key.
+          # TODO: document remaining columns
+
+      # ── EXCHANGE RATES ─────────────────────────────────────────────────────
+      # TODO (Session 2): Add full documentation for this table.
+      - name: raw_exchange_rates
+        description: >
+          Daily FX rates (weekdays only) from 2023-01-01 to 2024-06-30.
+          WIDE format — 8 currency columns (EUR, GBP, JPY, CAD, MXN, AUD, BRL, CHF).
+          base_currency is always USD. Will need to be UNPIVOTED into a lookup table.
+        columns:
+          - name: rate_date
+            description: Date of the rate. Weekdays only.
+          # TODO: document remaining columns
+
+      # ── ACCOUNT SNAPSHOTS ──────────────────────────────────────────────────
+      # TODO (Session 2): Add full documentation for this table.
+      - name: raw_account_snapshots
+        description: >
+          Monthly closing balance snapshots for 80 sampled accounts,
+          covering 2023-01 through 2024-06. LONG (tall) format — one row
+          per account per month. Can be PIVOTed to wide format for reporting.
+        columns:
+          - name: snapshot_id
+            description: Primary key.
+          # TODO: document remaining columns

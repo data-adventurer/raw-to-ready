@@ -1,0 +1,29 @@
+raw_to_ready:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: YOUR_ACCOUNT_IDENTIFIER   # e.g. abc12345.us-east-1
+      user: YOUR_USERNAME
+      password: YOUR_PASSWORD            # or use authenticator: externalbrowser for SSO
+      role: YOUR_ROLE                    # e.g. TRANSFORMER
+      warehouse: YOUR_WAREHOUSE          # e.g. COMPUTE_WH
+      database: RAW_TO_READY
+      schema: DEV                        # your personal dev schema
+      threads: 4
+
+# ─────────────────────────────────────────────────────────────
+# HOW TO USE THIS FILE
+# ─────────────────────────────────────────────────────────────
+# 1. Copy this file:
+#      cp profiles.yml.example ~/.dbt/profiles.yml
+#    (dbt looks for profiles.yml in your home directory by default)
+#
+# 2. Fill in your Snowflake connection details
+#
+# 3. Never commit profiles.yml — it contains credentials.
+#    It's already in .gitignore.
+#
+# 4. Test your connection:
+#      dbt debug
+# ─────────────────────────────────────────────────────────────

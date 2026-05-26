@@ -1,0 +1,216 @@
+customer_id,first_name,last_name,full_name,email,phone,date_of_birth,join_date,state,country,credit_score,is_active
+1167,THOMAS,harris,,thomas35@gmail.com,935.020.8021,"Jun 01, 1974",09-Nov-2022,OH,US,584,N
+1134,Sarah,Jackson,"Jackson, Sarah",sarah7@gmail.com,219-948-8375,29-Dec-1986,27-May-2015,MA,United States,822,N
+1029,Amanda,WHITE,AMANDA white,amanda.white@email.com,+13256746807,"Nov 26, 1979","Aug 08, 2018",CA,USA,580,Y
+1004,Charles,Harris,,charles.harris@email.com,+16765801856,"Oct 26, 1962",20-Dec-2017,PA,US,604,Y
+1131,Melissa,BROWN,Melissa Brown,melissa44@gmail.com,(202) 255-7941,1958-07-10,07/03/2023,NY,U.S.,719,N
+1133,Maria,Smith,,maria29@gmail.com,9721753540,30-Jan-1964,2020-09-01,OH,US,620,N
+1043,michael,jones,MICHAEL jones,michael@yahoo.com,358.514.9368,1993-04-05,07/07/2017,TX,us,593,True
+1173,AMANDA,White,Amanda White,amanda@yahoo.com,+12948014138,10-Feb-1983,"Nov 28, 2023",AZ,U.S.,777,FALSE
+1047,CHARLES,WILLIAMS,Charles Williams,charles@yahoo.com,(735) 218-1883,"Jul 04, 1985","Jun 24, 2018",NC,us,654,False
+1049,Robert,johnson,Robert Johnson,robert21@gmail.com,+17182037788,"Jun 02, 1990",28-Feb-2016,IL,us,778,No
+1079,Ashley,Smith,ASHLEY smith,ashley60@gmail.com,(373) 936-3854,01-Jan-1969,17-Feb-2017,GA,US,842,N
+1176,DAVID,Jackson,,david.jackson@email.com,357-279-1940,04-Jul-1969,2023-03-27,WA,us,802,0
+1060,Jessica,BROWN,JESSICA brown,jessica.brown@email.com,437-058-9578,"Jan 12, 1968","Nov 19, 2023",MA,us,825,Y
+1119,William,Harris,"Harris, William",william@yahoo.com,816.229.9911,"Feb 10, 1951",10/27/2023,NC,us,715,N
+1017,Stephanie,JACKSON,,stephanie16@gmail.com,2163287083,21-Nov-1971,08/27/2016,MA,United States,806,TRUE
+1035,thomas,TAYLOR,"Taylor, Thomas",thomas.taylor@email.com,+19136959440,15-Nov-1967,04/25/2019,MA,US,834,False
+1062,Robert,garcia,,robert@yahoo.com,201-094-3969,1980-04-16,04/27/2021,OH,U.S.,734,False
+1033,david,Anderson,DAVID anderson,david@yahoo.com,778.091.3431,15-Nov-1997,"Apr 06, 2019",TX,USA,631,1
+1151,Jessica,WHITE,,jessica.white@email.com,+14984257991,1962-10-21,2023-11-29,NY,U.S.,838,True
+1075,Melissa,Thomas,"Thomas, Melissa",melissa.thomas@email.com,(861) 825-1286,"Apr 25, 1984",12-Jan-2020,TX,United States,732,TRUE
+1105,James,thomas,James Thomas,james.thomas@email.com,(693) 759-7383,01/02/1968,"Apr 09, 2018",OH,US,584,1
+1188,william,Miller,William Miller,william.miller@email.com,405.020.9945,22-May-1954,27-Jan-2017,GA,US,670,FALSE
+1135,Amanda,Brown,,amanda.brown@email.com,+19261493316,02/09/1954,"Nov 03, 2016",CA,us,753,FALSE
+1034,MELISSA,Garcia,,melissa@yahoo.com,396.937.9237,02-Apr-1965,"Dec 18, 2016",AZ,United States,818,TRUE
+1144,ASHLEY,JONES,"Jones, Ashley",ashley.jones@email.com,(708) 821-0099,27-Sep-1976,08/06/2022,NY,USA,736,Y
+1096,Robert,davis,Robert Davis,robert.davis@email.com,736-729-4667,"Feb 14, 1963",23-Dec-2022,NY,us,722,N
+1097,CHARLES,Miller,,charles.miller@email.com,945-458-9297,"Jul 18, 1988",05/17/2017,AZ,USA,603,0
+1162,WILLIAM,THOMAS,WILLIAM thomas,william@yahoo.com,3593998245,"Oct 12, 1951",2019-08-14,NY,USA,775,N
+1074,Maria,Harris,,maria@yahoo.com,879-087-4064,02-Nov-1961,"Oct 03, 2020",TX,USA,NA,0
+1002,john,Brown,"Brown, John",john@yahoo.com,355-940-7816,"Apr 28, 1958",06-Apr-2019,OH,United States,765,False
+1138,Emily,Taylor,EMILY taylor,emily@yahoo.com,+12438057198,1972-06-24,2016-08-22,AZ,United States,779,Y
+1174,SARAH,Garcia,SARAH garcia,sarah@yahoo.com,885.289.7558,"Mar 09, 1966","Mar 02, 2021",GA,US,800,FALSE
+1036,Maria,Taylor,Maria Taylor,maria68@gmail.com,(721) 456-2328,07/19/1989,"May 17, 2015",PA,United States,826,No
+1200,ROBERT,SMITH,,robert@yahoo.com,+12276212679,1956-06-08,"Apr 09, 2022",AZ,USA,810,No
+1127,michael,Thomas,"Thomas, Michael",michael.thomas@email.com,500.335.4216,"Apr 07, 1951",12-Aug-2018,FL,USA,728,TRUE
+1159,Stephanie,Garcia,"Garcia, Stephanie",stephanie@yahoo.com,8392086780,1995-11-09,21-Feb-2018,WA,us,641,No
+1121,MELISSA,martin,MELISSA martin,melissa.martin@email.com,2821486289,"May 03, 1996",2019-03-12,MA,US,609,No
+1022,melissa,thomas,"Thomas, Melissa",melissa@yahoo.com,706-716-5726,09-Mar-1956,"Sep 03, 2020",FL,U.S.,827,Y
+1077,John,ANDERSON,JOHN anderson,john87@gmail.com,4836440892,04/03/1971,"May 21, 2018",FL,USA,775,Y
+1013,Michael,DAVIS,"Davis, Michael",michael@yahoo.com,8923226025,23-Mar-1959,19-Dec-2018,FL,USA,635,1
+1026,ashley,Williams,"Williams, Ashley",ashley76@gmail.com,375-344-3009,04/07/1972,2016-04-30,TX,US,610,False
+1150,Stephanie,miller,Stephanie Miller,stephanie.miller@email.com,(803) 029-9228,"Jun 19, 1964","Apr 05, 2022",OH,USA,844,FALSE
+1054,Michael,Jones,MICHAEL jones,michael9@gmail.com,(814) 341-0369,"Mar 28, 1999",02/26/2023,MA,US,588,Yes
+1169,Sarah,WILSON,SARAH wilson,sarah36@gmail.com,635-031-3650,03/04/1993,02/28/2022,OH,US,704,FALSE
+1129,STEPHANIE,jones,"Jones, Stephanie",stephanie@yahoo.com,246.184.9926,"Jun 08, 1968",18-Oct-2022,TX,US,634,False
+1082,Melissa,Garcia,,melissa.garcia@email.com,+14339845461,"Aug 08, 1959",2016-01-30,MA,US,695,0
+1055,amanda,williams,"Williams, Amanda",amanda@yahoo.com,2670654051,"Mar 12, 1997",02/06/2021,TX,US,633,1
+1091,JOHN,white,JOHN white,john.white@email.com,(822) 660-9379,"Jun 15, 1991",2017-08-07,IL,U.S.,685,TRUE
+1146,JAMES,anderson,James Anderson,james.anderson@email.com,564-525-7775,1972-02-01,2023-10-24,NC,us,621,True
+1106,robert,wilson,,n/a,586.571.9182,07-May-1958,"Jun 29, 2015",IL,USA,611,Yes
+1109,Michael,HARRIS,Michael Harris,michael.harris@email.com,+17107029667,07/22/1961,12-Jan-2016,OH,U.S.,675,Yes
+1072,THOMAS,WILSON,"Wilson, Thomas",thomas@yahoo.com,2453017426,07/29/1979,"May 21, 2018",AZ,us,731,FALSE
+1007,Jessica,Davis,,jessica@yahoo.com,231.051.8347,"Aug 24, 1950","Oct 18, 2015",OH,US,822,False
+1051,ROBERT,Jones,ROBERT jones,robert@yahoo.com,3888059296,12/03/1956,04/26/2018,IL,U.S.,602,No
+1053,Thomas,THOMAS,,thomas@yahoo.com,2685361530,1952-05-23,2019-08-27,CA,United States,751,Yes
+1073,Amanda,White,"White, Amanda",amanda@yahoo.com,+15391878519,"Apr 11, 1999",2020-04-12,PA,U.S.,683,No
+1125,emily,Anderson,Emily Anderson,emily@yahoo.com,(734) 655-4947,01/05/1958,06/29/2017,WA,U.S.,616,Y
+1041,Melissa,Brown,Melissa Brown,melissa75@gmail.com,+19115921249,12/26/1993,"Dec 27, 2022",OH,USA,730,TRUE
+1012,STEPHANIE,Wilson,"Wilson, Stephanie",stephanie.wilson@email.com,840-052-4278,23-Jul-1954,14-Jan-2016,CA,United States,618,No
+1140,ROBERT,JOHNSON,ROBERT johnson,robert@yahoo.com,294.798.5158,16-Oct-1963,14-Aug-2018,FL,us,661,No
+1136,MARIA,WHITE,,maria@yahoo.com,+14922169958,29-Apr-1993,13-Sep-2020,AZ,us,755,N
+1187,Maria,White,,maria@yahoo.com,607.929.0490,1977-08-21,2018-06-21,FL,us,582,False
+1045,melissa,wilson,Melissa Wilson,melissa.wilson@email.com,356-149-7840,"May 04, 1969","Jun 20, 2023",TX,USA,583,Yes
+1137,Michael,Miller,,michael@yahoo.com,(652) 288-5158,1968-10-24,2021-12-31,FL,United States,726,1
+1080,JESSICA,jones,"Jones, Jessica",jessica84@gmail.com,(842) 353-6937,"Jun 16, 1951",12/04/2017,PA,US,830,N
+1061,amanda,JONES,AMANDA jones,amanda.jones@email.com,(426) 801-8242,18-Jun-1999,2022-03-05,PA,USA,845,0
+1116,melissa,Wilson,,N/A,510-698-7205,04-Apr-1975,"May 03, 2018",OH,U.S.,825,True
+1130,Stephanie,Miller,"Miller, Stephanie",stephanie93@gmail.com,500-119-7218,14-Feb-1993,16-Sep-2018,MA,United States,731,N
+1047,CHARLES,WILLIAMS,Charles Williams,charles@yahoo.com,2512927663,"Jul 04, 1985","Jun 24, 2018",NC,us,654,False
+1084,John,JACKSON,JOHN jackson,john79@gmail.com,+13850163159,"Jul 22, 1962","Nov 12, 2023",TX,us,NA,N
+1156,Charles,miller,CHARLES miller,charles25@gmail.com,318-489-5543,13-Jun-1996,04-Mar-2015,AZ,U.S.,582,TRUE
+1030,william,Jones,,william.jones@email.com,9109324808,11/04/1975,"Nov 30, 2019",PA,USA,658,Yes
+1186,Thomas,Smith,"Smith, Thomas",n/a,4395041027,01/18/1966,02/02/2020,TX,USA,776,Y
+1087,JESSICA,Martin,JESSICA martin,jessica@yahoo.com,324.065.9657,"Jul 18, 1967",02/19/2020,WA,U.S.,682,No
+1163,JOHN,Davis,John Davis,john.davis@email.com,649-647-5987,1978-02-15,"Jul 21, 2018",PA,US,644,False
+1168,John,WILLIAMS,,john99@gmail.com,6618723460,09-Feb-1963,18-Aug-2015,TX,US,806,N
+1122,Jessica,Thomas,Jessica Thomas,jessica.thomas@email.com,6783667428,11/07/1993,08/30/2021,NC,US,689,Yes
+1190,jessica,taylor,JESSICA taylor,jessica.taylor@email.com,307-139-6605,1967-05-14,07-Jan-2015,WA,U.S.,724,0
+1183,James,Anderson,"Anderson, James",james@yahoo.com,+16742312209,"Feb 23, 1987",12-Aug-2019,TX,U.S.,698,No
+1118,stephanie,taylor,Stephanie Taylor,stephanie.taylor@email.com,289-899-2172,"Jan 31, 1957","Jun 06, 2019",PA,United States,601,True
+1186,Thomas,Smith,"Smith, Thomas",n/a,571.452.1117,01/18/1966,02/02/2020,TX,USA,776,Y
+1008,Sarah,Johnson,"Johnson, Sarah",sarah.johnson@email.com,(713) 338-7262,"Feb 14, 1986","Mar 02, 2023",OH,USA,806,TRUE
+1044,Charles,Williams,CHARLES williams,charles@yahoo.com,2183667525,"Sep 23, 1962","Apr 24, 2023",NC,U.S.,623,FALSE
+1155,MARIA,Jackson,"Jackson, Maria",maria@yahoo.com,690-277-0384,11-Dec-1985,"Nov 19, 2021",WA,U.S.,844,No
+1003,emily,Thomas,EMILY thomas,emily@yahoo.com,619-283-2764,11/15/1981,08-May-2017,FL,U.S.,746,1
+1141,Stephanie,smith,"Smith, Stephanie",stephanie33@gmail.com,773.993.0561,1960-04-17,2022-07-02,TX,us,771,N
+1154,Amanda,Jackson,Amanda Jackson,amanda.jackson@email.com,337-213-8658,22-May-1962,05/24/2022,WA,US,662,True
+1064,STEPHANIE,harris,STEPHANIE harris,stephanie@yahoo.com,9016873395,30-Sep-1994,2018-06-17,GA,US,820,Y
+1040,ROBERT,Smith,ROBERT smith,robert96@gmail.com,5950240268,1982-02-20,2023-11-10,OH,U.S.,635,TRUE
+1122,Jessica,Thomas,Jessica Thomas,jessica.thomas@email.com,9279855241,11/07/1993,08/30/2021,NC,US,689,Yes
+1070,Stephanie,miller,STEPHANIE miller,stephanie.miller@email.com,6019380262,"Oct 09, 1975",08/08/2018,PA,U.S.,584,FALSE
+1015,james,Miller,James Miller,james.miller@email.com,591-119-2692,04-Sep-1982,11/02/2019,GA,us,678,FALSE
+1145,maria,harris,"Harris, Maria",maria84@gmail.com,+16141397552,25-Apr-1999,27-Oct-2015,GA,USA,742,N
+1107,david,Miller,"Miller, David",david99@gmail.com,321.277.5618,03/19/1962,2023-09-30,AZ,USA,817,True
+1031,charles,Miller,,charles@yahoo.com,414.658.4044,08/07/1995,05/15/2023,NC,U.S.,808,No
+1167,THOMAS,harris,,thomas35@gmail.com,+16544149673,"Jun 01, 1974",09-Nov-2022,OH,US,584,N
+1093,Emily,GARCIA,Emily Garcia,emily@yahoo.com,+14257905072,1993-12-05,03/29/2018,IL,US,831,N
+1004,Charles,Harris,,charles.harris@email.com,+14388496965,"Oct 26, 1962",20-Dec-2017,PA,US,604,Y
+1102,DAVID,Miller,"Miller, David",david@yahoo.com,7691463031,10-Dec-1963,06-Jan-2021,TX,United States,608,1
+1160,WILLIAM,Garcia,WILLIAM garcia,william90@gmail.com,(547) 955-2763,"Mar 20, 1999","Dec 12, 2017",FL,USA,785,FALSE
+1143,James,Jackson,"Jackson, James",james.jackson@email.com,+12919015814,08/12/1960,12/30/2020,AZ,U.S.,804,Y
+1161,Robert,Martin,ROBERT martin,robert.martin@email.com,872.885.7448,16-Nov-1950,24-Dec-2016,PA,us,NA,N
+1095,thomas,Brown,"Brown, Thomas",thomas@yahoo.com,7962923309,1971-04-05,09-May-2017,MA,USA,729,FALSE
+1057,stephanie,Martin,Stephanie Martin,stephanie11@gmail.com,616.169.2845,"Dec 16, 1982",10-Dec-2023,MA,US,736,N
+1117,William,WILLIAMS,William Williams,william@yahoo.com,995.654.4209,"Oct 25, 1998","May 07, 2019",NC,USA,611,No
+1011,Michael,WILSON,MICHAEL wilson,michael86@gmail.com,335.427.8498,11/19/1961,30-Nov-2018,FL,United States,648,0
+1063,Stephanie,Harris,"Harris, Stephanie",stephanie31@gmail.com,(455) 562-5881,21-Apr-1968,25-Oct-2018,FL,USA,810,Yes
+1180,CHARLES,Johnson,Charles Johnson,charles@yahoo.com,243.940.7016,"Dec 01, 1972",2016-11-28,TX,USA,589,Y
+1089,melissa,Johnson,,melissa.johnson@email.com,+13135290965,04/04/1982,13-Nov-2022,CA,U.S.,712,N
+1081,Maria,Williams,Maria Williams,maria@yahoo.com,+12623120387,09-May-1954,28-Jul-2023,CA,us,827,TRUE
+1014,James,Miller,,james23@gmail.com,+16145868501,09/30/1985,06-Sep-2018,CA,U.S.,802,No
+1004,Charles,Harris,,charles.harris@email.com,3929275243,"Oct 26, 1962",20-Dec-2017,PA,US,604,Y
+1090,Sarah,taylor,Sarah Taylor,sarah@yahoo.com,(325) 457-3875,04/27/1987,12/18/2015,PA,USA,811,0
+1153,Sarah,SMITH,SARAH smith,sarah69@gmail.com,+15565126944,"Aug 24, 1983",05-May-2022,IL,us,721,Y
+1025,Emily,Taylor,,emily37@gmail.com,4400842710,1951-04-09,2022-12-10,TX,USA,606,N
+1152,Robert,smith,,robert@yahoo.com,850.863.7659,09/17/1988,2020-11-08,AZ,US,710,False
+1050,robert,anderson,"Anderson, Robert",robert@yahoo.com,(454) 629-1486,24-Apr-1957,"Jul 14, 2021",FL,USA,796,1
+1006,Maria,Davis,"Davis, Maria",maria.davis@email.com,(371) 822-7824,2000-11-25,19-Nov-2015,CA,us,784,N
+1195,Stephanie,Johnson,,stephanie@yahoo.com,216.629.9795,"Jul 04, 1959","Apr 21, 2019",FL,USA,620,0
+1023,CHARLES,Anderson,,charles.anderson@email.com,7273545494,1952-07-29,2020-07-17,IL,USA,788,TRUE
+1026,ashley,Williams,"Williams, Ashley",ashley76@gmail.com,(899) 938-6774,04/07/1972,2016-04-30,TX,US,610,False
+1199,MARIA,THOMAS,,maria41@gmail.com,285.140.3696,"Mar 30, 1999",08/06/2015,IL,USA,775,N
+1038,SARAH,brown,Sarah Brown,sarah63@gmail.com,467.586.9261,24-Jan-1971,2021-01-10,GA,United States,691,N
+1142,JAMES,williams,,james.williams@email.com,5613861207,"Nov 28, 1968","Jul 08, 2022",GA,United States,607,FALSE
+1193,ashley,Anderson,ASHLEY anderson,ashley@yahoo.com,(382) 307-6810,09-Nov-1962,08/18/2023,FL,United States,624,TRUE
+1059,james,Garcia,JAMES garcia,james.garcia@email.com,881.447.3947,10/09/1994,10/21/2020,WA,us,811,No
+1108,AMANDA,Jackson,AMANDA jackson,amanda.jackson@email.com,642-067-8831,25-Jan-1996,2015-07-20,CA,US,642,True
+1021,MICHAEL,Harris,MICHAEL harris,michael74@gmail.com,+17299124190,1972-12-27,2023-08-08,WA,us,783,FALSE
+1088,WILLIAM,Jackson,,william89@gmail.com,598-280-7374,"Sep 30, 1982","Apr 11, 2016",NC,U.S.,835,Yes
+1094,William,DAVIS,WILLIAM davis,william70@gmail.com,479-788-1914,"Mar 26, 1998",28-Mar-2018,WA,US,601,Y
+1024,Charles,davis,CHARLES davis,charles.davis@email.com,778-856-8557,06/21/1977,12-Jun-2022,FL,United States,678,False
+1015,james,Miller,James Miller,james.miller@email.com,359.514.8465,04-Sep-1982,11/02/2019,GA,us,678,FALSE
+1103,Robert,WILSON,Robert Wilson,robert66@gmail.com,256-481-4917,1960-08-04,08/26/2023,CA,U.S.,665,FALSE
+1078,Ashley,Jones,Ashley Jones,ashley11@gmail.com,(868) 826-3435,07/17/1991,"Aug 25, 2015",FL,United States,627,Yes
+1191,james,garcia,James Garcia,james.garcia@email.com,(777) 027-2785,29-May-1967,2018-09-15,WA,U.S.,846,False
+1092,John,Jackson,"Jackson, John",john.jackson@email.com,+13557924991,"Mar 20, 1985","Aug 01, 2021",TX,U.S.,736,TRUE
+1032,Jessica,WHITE,Jessica White,jessica13@gmail.com,9662702895,01-Dec-1953,27-Jul-2018,NC,U.S.,631,True
+1124,ashley,MILLER,"Miller, Ashley",ashley.miller@email.com,509.652.0744,1963-06-14,"Oct 19, 2020",TX,United States,693,No
+1099,Stephanie,WILLIAMS,Stephanie Williams,stephanie@yahoo.com,311-554-2622,07/17/1970,2019-04-19,NC,U.S.,664,Y
+1149,William,JACKSON,,null,855.779.0827,1969-12-30,"Oct 16, 2020",MA,U.S.,723,No
+1058,David,JACKSON,DAVID jackson,david.jackson@email.com,4029702135,05-Aug-1982,02-Oct-2020,FL,US,769,N
+1175,MARIA,taylor,MARIA taylor,maria@yahoo.com,+14404335048,06/19/1951,10/21/2020,IL,United States,815,True
+1185,Thomas,Harris,Thomas Harris,thomas37@gmail.com,(808) 680-3476,10/21/1953,"Oct 03, 2017",GA,United States,730,N
+1104,Amanda,Jackson,AMANDA jackson,,286.353.6541,19-Jun-1963,2017-01-03,PA,U.S.,606,Y
+1112,david,Johnson,DAVID johnson,david23@gmail.com,5087059325,1970-11-14,30-Sep-2021,IL,United States,610,0
+1123,Jessica,Wilson,Jessica Wilson,jessica.wilson@email.com,666.574.3748,28-May-1977,29-Dec-2022,IL,United States,771,Yes
+1063,Stephanie,Harris,"Harris, Stephanie",stephanie31@gmail.com,9189490580,21-Apr-1968,25-Oct-2018,FL,USA,810,Yes
+1132,Stephanie,Harris,"Harris, Stephanie",stephanie9@gmail.com,8590277167,06-Apr-1966,"Nov 08, 2021",TX,us,586,No
+1182,JESSICA,WHITE,JESSICA white,jessica.white@email.com,464-957-8232,1971-07-26,06/04/2021,WA,USA,650,Y
+1148,amanda,johnson,"Johnson, Amanda",amanda.johnson@email.com,9314530385,"Aug 19, 1969",16-Jul-2023,NC,US,600,TRUE
+1181,THOMAS,smith,,thomas.smith@email.com,(657) 620-5554,1953-07-26,"Oct 10, 2017",PA,us,595,False
+1085,Charles,WILLIAMS,,charles12@gmail.com,5114262655,"Jul 01, 1976",2023-12-13,CA,US,807,True
+1172,JOHN,Brown,John Brown,john74@gmail.com,(302) 203-1731,"Aug 21, 1958",2020-11-13,OH,US,830,No
+1069,amanda,Harris,Amanda Harris,amanda.harris@email.com,(933) 848-4219,1973-01-03,05/20/2023,GA,U.S.,695,Y
+1192,Emily,Jackson,,emily39@gmail.com,+13450461735,10/24/1966,09/03/2021,WA,U.S.,669,0
+1010,David,davis,David Davis,david@yahoo.com,599-091-6998,"Mar 23, 1986",2016-05-06,NY,us,740,Yes
+1001,sarah,Smith,"Smith, Sarah",sarah.smith@email.com,5218196001,04-Sep-1974,30-Sep-2017,TX,USA,681,N
+1039,Michael,brown,"Brown, Michael",michael@yahoo.com,(590) 053-2931,18-Oct-1990,01/11/2016,NY,US,699,True
+1128,Charles,Smith,,charles@yahoo.com,4309821506,"Jun 29, 1970",2017-07-07,PA,United States,604,1
+1005,Sarah,wilson,,sarah@yahoo.com,662-704-8281,1980-07-08,01-Apr-2016,IL,USA,658,True
+1115,JESSICA,Garcia,"Garcia, Jessica",jessica.garcia@email.com,240-541-1526,1990-06-27,29-Oct-2015,FL,USA,753,Y
+1198,sarah,Jackson,SARAH jackson,sarah50@gmail.com,5852580010,1979-05-17,"Jul 17, 2020",TX,United States,742,FALSE
+1147,CHARLES,MILLER,,charles.miller@email.com,(688) 725-6394,04/16/1953,03/09/2021,AZ,U.S.,783,FALSE
+1149,William,JACKSON,,null,912-847-8189,1969-12-30,"Oct 16, 2020",MA,U.S.,723,No
+1196,Robert,wilson,Robert Wilson,robert60@gmail.com,455.770.1715,"Aug 10, 1982","May 25, 2019",NC,U.S.,758,Y
+1009,Charles,JOHNSON,Charles Johnson,charles@yahoo.com,+12647468723,1964-10-08,04/02/2019,NY,us,611,FALSE
+1027,MELISSA,harris,MELISSA harris,melissa@yahoo.com,2344713493,1992-02-28,"Apr 07, 2018",AZ,United States,656,1
+1189,melissa,williams,MELISSA williams,melissa@yahoo.com,(414) 586-8339,"Apr 09, 1976","Apr 12, 2020",OH,USA,827,Y
+1114,Jessica,Thomas,JESSICA thomas,jessica.thomas@email.com,+13570433154,"Aug 31, 1978",2016-11-18,OH,us,777,Y
+1177,Robert,anderson,Robert Anderson,robert.anderson@email.com,5206799813,"Jan 27, 1995",10/29/2022,TX,U.S.,647,TRUE
+1165,Emily,Harris,,emily.harris@email.com,6578317456,06-Aug-2000,2019-11-17,GA,United States,649,Yes
+1158,Stephanie,Anderson,,stephanie32@gmail.com,623.733.3433,19-Sep-1981,"Jun 14, 2017",NC,United States,659,N
+1056,Thomas,johnson,,thomas97@gmail.com,2305486874,"Apr 29, 1976","Apr 05, 2017",WA,USA,604,Yes
+1111,JESSICA,GARCIA,,jessica@yahoo.com,+15480396522,26-Dec-1958,10/12/2017,OH,US,594,FALSE
+1139,michael,HARRIS,"Harris, Michael",michael.harris@email.com,+17989334721,27-Mar-1970,2022-02-08,WA,U.S.,null,TRUE
+1037,david,Jackson,David Jackson,david@yahoo.com,(375) 496-5137,1951-04-02,2017-12-19,IL,U.S.,747,N
+1028,Charles,Wilson,CHARLES wilson,charles@yahoo.com,(971) 906-5940,"Nov 25, 1994","Jan 20, 2021",NY,U.S.,590,True
+1184,Stephanie,Martin,,stephanie23@gmail.com,530.604.6333,"May 04, 1962",2016-11-01,PA,US,830,Y
+1166,jessica,Smith,"Smith, Jessica",jessica.smith@email.com,568-663-2663,03/08/1999,03/11/2019,IL,US,719,TRUE
+1187,Maria,White,,maria@yahoo.com,9421230940,1977-08-21,2018-06-21,FL,us,582,False
+1101,David,Smith,,david.smith@email.com,469-658-2710,05/25/1982,20-Jul-2018,NY,United States,783,TRUE
+1157,CHARLES,martin,Charles Martin,charles.martin@email.com,7779071416,29-Oct-1971,2023-06-30,PA,USA,741,Yes
+1052,Michael,THOMAS,MICHAEL thomas,michael83@gmail.com,6688623924,07/12/1989,"Mar 06, 2020",NY,USA,632,Yes
+1126,Thomas,Jones,,thomas@yahoo.com,4175250074,"May 21, 1978","Jan 10, 2023",CA,US,661,FALSE
+1018,Stephanie,Davis,Stephanie Davis,stephanie@yahoo.com,(343) 455-8122,"Aug 21, 1974","Dec 07, 2019",NC,US,null,No
+1113,robert,GARCIA,Robert Garcia,robert.garcia@email.com,9528953926,03/12/1989,18-Nov-2023,AZ,US,670,True
+1046,CHARLES,Davis,CHARLES davis,charles@yahoo.com,716-060-7159,"Nov 18, 1994",2021-04-07,FL,U.S.,793,No
+1068,John,Thomas,JOHN thomas,john91@gmail.com,(933) 484-3443,19-Sep-1973,2021-11-03,IL,US,720,0
+1067,EMILY,jackson,,emily@yahoo.com,+15091307562,"Apr 05, 1963",20-Aug-2022,TX,U.S.,821,TRUE
+1194,William,anderson,WILLIAM anderson,william@yahoo.com,+13422410988,"Jul 29, 1989",2022-07-11,TX,US,743,True
+1086,Amanda,williams,,amanda49@gmail.com,246.618.3982,"Feb 08, 1979",2019-04-27,WA,United States,734,True
+1100,amanda,White,"White, Amanda",NA,4341389994,"Mar 20, 1978",2023-11-15,FL,U.S.,734,Y
+1098,Ashley,Garcia,Ashley Garcia,ashley.garcia@email.com,741.520.6436,1974-08-02,"Jan 18, 2016",AZ,USA,689,TRUE
+1016,JOHN,Harris,John Harris,john97@gmail.com,5872148951,"Aug 20, 1989",12/17/2019,AZ,U.S.,695,1
+1125,emily,Anderson,Emily Anderson,emily@yahoo.com,328.144.2944,01/05/1958,06/29/2017,WA,U.S.,616,Y
+1019,Charles,Martin,Charles Martin,charles63@gmail.com,666-889-3734,"Jul 13, 1950",12/11/2018,OH,USA,787,FALSE
+1042,Melissa,anderson,,melissa.anderson@email.com,815-654-5271,08-Sep-1990,22-Jun-2019,WA,US,610,0
+1066,robert,Jones,,robert91@gmail.com,726.949.5888,06/04/1979,2021-11-16,NC,U.S.,636,FALSE
+1083,EMILY,Williams,Emily Williams,emily10@gmail.com,791.803.3974,11/05/1994,11/13/2019,NC,U.S.,596,False
+1183,James,Anderson,"Anderson, James",james@yahoo.com,668-950-0975,"Feb 23, 1987",12-Aug-2019,TX,U.S.,698,No
+1198,sarah,Jackson,SARAH jackson,sarah50@gmail.com,213-290-2278,1979-05-17,"Jul 17, 2020",TX,United States,742,FALSE
+1171,William,GARCIA,,william@yahoo.com,+14744857086,03/06/1956,15-Dec-2020,WA,U.S.,702,0
+1178,michael,Martin,MICHAEL martin,n/a,(589) 833-1465,19-Jun-1985,"Apr 25, 2022",NC,USA,791,No
+1110,stephanie,JOHNSON,Stephanie Johnson,stephanie70@gmail.com,826.383.8065,1957-11-14,"Feb 19, 2018",PA,United States,837,1
+1197,Jessica,davis,Jessica Davis,jessica@yahoo.com,9615396695,02/28/1999,13-Oct-2016,GA,US,619,FALSE
+1071,WILLIAM,Miller,WILLIAM miller,william82@gmail.com,(474) 205-4932,1960-02-09,16-Sep-2018,GA,USA,843,True
+1117,William,WILLIAMS,William Williams,william@yahoo.com,4565270477,"Oct 25, 1998","May 07, 2019",NC,USA,611,No
+1164,james,jackson,,james.jackson@email.com,3149216433,03-Jan-1997,"Jul 31, 2023",TX,us,647,1
+1020,MARIA,Wilson,"Wilson, Maria",maria96@gmail.com,(575) 564-6417,01/05/1984,"Sep 02, 2018",MA,US,694,False
+1170,John,johnson,,john25@gmail.com,(481) 273-5857,05/13/1955,27-Dec-2018,WA,U.S.,763,N
+1120,Charles,johnson,CHARLES johnson,charles@yahoo.com,5074505444,1985-07-05,09/19/2018,OH,USA,630,Yes
+1076,MICHAEL,Brown,"Brown, Michael",michael.brown@email.com,+18903311907,21-Nov-1952,05/28/2022,AZ,us,785,False
+1065,Michael,Thomas,Michael Thomas,michael51@gmail.com,(368) 784-9912,20-Aug-1999,"Mar 28, 2018",PA,U.S.,681,TRUE
+1048,Thomas,Anderson,Thomas Anderson,thomas.anderson@email.com,9177449058,05/13/1978,10-Sep-2016,NC,U.S.,609,0
+1179,THOMAS,JOHNSON,THOMAS johnson,thomas89@gmail.com,+17211039240,"Dec 12, 1970",03/28/2017,AZ,US,810,TRUE
